@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/resourse/images">
+        <file>field.png</file>
+        <file>O.png</file>
+        <file>X.png</file>
+        <file>screen.png</file>
+    </qresource>
+</RCC>
